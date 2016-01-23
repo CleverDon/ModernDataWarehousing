@@ -1,0 +1,6 @@
+#Chapter 1
+
+##What is a data warehouse
+
+A data warehouse is a collection of systems that's purpose is to provide analtyical capabilities to for the business.  
+    
