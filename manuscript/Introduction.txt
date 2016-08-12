@@ -30,33 +30,22 @@ In order to walk you first must crawl.  And in ordre to run you must first walk.
 
 * Integrated - At this stage, the company has growth to the point that the swivel chair becomes inefficient and error prone.  Their processes become more complex and systematic coordination is needed to keep their main critical business processes operating effectively.  At this stage even though many of their systems will remain operationally seperated, there is a need to combine the data between systems to get reporting to understand how their business is operating.  In this category, the data warehouse is born.
 
-* Analytic - At this stage, the data warehouse begins to collect data from the majority of the major enterprise transactional systems.  Basic reports become ineffective as the answers to their business questions serve to drive even more questions.  The need for the business analyst or power user for self service reporting becomes vital.      
+* Analytic - At this stage, the data warehouse begins to collect data from the majority of the major enterprise transactional systems.  Basic reports become ineffective as the answers to their business questions serve to drive even more questions.  The need for the business analyst or power user for self service reporting becomes vital. The ability for the business to answer their own questions with the data with a stable IT support cadence is at the end of this category      
 
+* Predictive - At this stage, having just the visibility into past performance or what has happened does not satisfy the business anymore.  Now it is important to use that data to predict future outcomes and provide recommendations.  At this point, the business moves from defining business rules for their data to the data determining the proper rules to apply.  Towards the end of these category, these predictions or forecasts are used by the systems automatically removing the human from the process.  The process itself learns and adjusts based on porcessed observations and the system acts automatically based on the proper course of action for the predicted result.  A new projected "fifth" category is discussed as the last chapter of this book.    
 
+Since we have no way of knowing where your company falls on the maturity progress assessment chart, we will start from the beginning.  We will follow a company as it starts as a small mom and pop automated car niche manufacturer producing a few cars a year into the "Ford" of the 21st century.  As its needs change, it will move up the data maturity chart.  Although every company progresses differently since it has unique needs, the progression depicted will materially model the vast majority of industries and businesses.
 
-Since we have no way of knowing where your company is on the maturity progress chart below, we will start from the beginning.  
+## LittleCarCorp
+We will start with our hero Anton.  He is an automotive engineer by trade and has a particular passion for autonomously controlled vehicles.  As a boy, he had always had a dream to have a car similar to that of K.I.T.T. from his favorite show, Knight Rider.  Using today's technology, he has been able to produce a functional version of the car which he sells to a few people a year who have an excessive disposable income.     
 
-We will start with our hero Anton.      
+## Who should read this book?
+This book is for anyone who will be interacting with data in their organization.  Since that will refer to everyone in the next few years, let's drill down to a slightly more granular focus.  
 
-Introduce book layout
+There is an expectation that the data have some familiarality with SQL and relational databases.  Although, a quick fresher will be covered to bridge the gaps to the first majority level, if this subject is new to use we recommend starting with some basic SQL skills and relational data modeling concepts.
 
-Who should read this book?
+It is also assumed that the reader will have an open mind to the new concepts that are revealed as we progress through the book.  Some of these concepts directly contradict some of the basic relational database laws of nature such as normalization.  So if you begin to feel too uncomfortable or start feeling dizzy, please stop, return to a safer previous chapter until you feel ready to continue.
 
-Intro to LittleCorp - Autonomonous Cars
-
-
-
-A data warehouse is a collection of systems that's purpose is to provide analtyical capabilities to for the business.  
-    
-1. Introduction
-
-Maturity Model
-
-Introduce book layout
-
-Who should read this book?
-
-Intro to LittleCorp - Autonomonous Cars
 
 (1) http://brainz.org/10-most-devastating-tsunamis-recent-history/
 (2) https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
