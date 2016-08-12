@@ -1,0 +1,33 @@
+# SQL
+
+## Beginning
+
+LittleCarCorp starts with a small SQL Server Express database that contains data about the company's parts inventory and some other miscellaneous data.  Quickbooks is used as their financial accounting system.  They store their corporate documents in SharePoint Online as part of their Office 365 subscription.  Other than that, they have some Excel spreadsheets where they have created a few ad-hoc financial models.  They do not have any customer reports or CRM systems to start with.  Having only two customers a year, Anton is able to understand and know how his business is doing without any need for any business reports.  They use databases and systems solely to keep track of operational transactional processes.
+
+However, with a story appearing in Car and Driver magazine next month which will feature Anton's first self driving car, the ANT, he is expecting to get a lot of new interest.  Therefore, he has decided to also implement Dynamics CRM for his first CRM system to follow up on new customer information requests.
+
+Although the applications have a nice web interface, his SQL Server only has a query textbox with a "Run Query" button.  Therfore, in order to read, insert, update, or delete any information from that database, he much use SQL. 
+
+## SQL Query
+
+At this point Stella, Anton's wife and business partner, has a list of questions and about the parts that they have in inventory.  She also has a list of items that needs to be changed in the database.  
+
+> Lab 1: Help Anton Get Part Information Using SQL
+
+### SELECT
+
+The SELECT statement is used to read information from the database.  Anton needs to get a list of all the parts  that are in the Parts table.  Therefore he enters the following:
+```sql
+SELECT * FROM Parts
+```
+This statement returns all of the rows and all of the columns that are in the Parts table.  The asterix *, is shorthand for all of the columns in table.
+
+As you can see the table is hard to read since there are so many columns in the table.  He really only needs the part number and part name from the table for Stella, so that she can place the order.  Therefore he enters the following statement:
+
+```sql
+SELECT [Part Number], [Part Name] FROM Parts
+
+When you only want specific columns of a table, they are listed in the order you want them returned.  Commas are used to seperate column names.
+
+
+
