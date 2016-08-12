@@ -30,6 +30,8 @@ Intro to LittleCorp - Autonomonous Cars
                     Billing
                     CR
                     
+Show integration with every new piece of the model being developed
+               
                     
 6.  Indexes 
 
@@ -46,15 +48,23 @@ Intro to LittleCorp - Autonomonous Cars
 10.  Views
 
 
+11.  Agile development
+
+    Scrum
+    Kanban
+    Project Reporting
+  
+
+5.  Reporting - Visualizations
+    
+
+
 MiddleCorp
  
 4.  Data Warehouse - Can't keep track of all the systems and the pieces
                     Single version of the truth
                     Time variant - Looking for Need a list of customers who bought a transpost a year ago with a Classic7 Warp drive
                     
-5.  Reporting - Visualizations
-
-
 
 
 
@@ -93,8 +103,6 @@ MiddleCorp
 
 7. Complex patterns and calculations
 
-11.  MDM
-
 
 
 10.  ETL
@@ -106,9 +114,21 @@ Data Flow
 Benefits to data flow to sql.  When is DB better and when is ETL better
 
 
+17.  Messaging/ API
+
+
+11.  MDM
+      Input - missing?
+      Workflow
+      Rules - On ingest
+
+
 12.  Quality
-
-
+        Field
+        Row
+        File/ Flow
+        
+      The 4 things to do (do nothing/ fail the job/ ignore - set to null or default / remove the row
 
 BigCorp
 
@@ -120,6 +140,27 @@ BigCorp
 
 
 12.  MapReduce and Yarn
+
+
+
+13.  Data Lake / Logical Storage
+
+    ETL Offloading
+    Archiving
+    
+    Four layers of storage
+      Data Lake
+      Clean Processed
+      Analytic - Multidimensional
+      Focused / Targeted
+
+
+16  Ingestion / IOT
+
+Push/ Pull/ Subscribe
+
+
+
 
 
 13.  Hive
@@ -135,15 +176,6 @@ BigCorp
       MemCache
       Search / Solr/ ElasticSearch
       
-      
-
-
-16  Ingestion / IOT
-
-Push/ Pull/ Subscribe
-
-17.  Messaging/ API
-
 
 
 7.  In Memory
@@ -152,11 +184,20 @@ Push/ Pull/ Subscribe
 8.  MPP
 
 
+
 9.  Cloud
     HDI / Redshift/ SQL DW
     VM vs PaaS vs OnPrem
     
 
+
+11.  Infrastructure
+      VMs
+      Size Specs
+      Network
+      Ports
+      
+      
 
 10.  Security/ Infrastructure Management
       Ranger
@@ -170,12 +211,6 @@ Push/ Pull/ Subscribe
 
 
       
-      
-11.  Infrastructure
-      VMs
-      Size Specs
-      Network
-      Ports
       
 
 MegaCorp
@@ -198,7 +233,7 @@ MegaCorp
 
 
 19.  Data Science
-
+      Zepellin Analysis
 
 
 9. Predictive Analytics
