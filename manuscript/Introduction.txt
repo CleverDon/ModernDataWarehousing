@@ -1,0 +1,63 @@
+#Introduction
+
+## Life is Choices
+
+As humans, every action we take is a choice or a decision.  We have made good choices and we have made bad choices.  The choices we make is based off of the information that we have available to us at the time.  If I knew it was going to rain, I would have brought my umbrella.  The current data exists, however whether we did not have a convenient way to get the forecast (data collection issue) or we did not understand that raining to the west means it will likely rain in the east later (deriving information from data issue) we were unable to turn that data into information for us to take action.  Getting wet because we forget an umbrella may be an inconvenience, but what happens when the stakes are higher.  How important is the information when it saves lives. 
+
+    On Dec 26th, 2004 the most lethal tsunami that has ever occurred struck 14 countries circling the Indian Ocean.  The death toll was over 230,000 people.  The undersea earthquake had a magnitude of 9.3 which triggered waves up to 100 feet high.  Indonesia suffered the worst hit, followed by Sri Lanka, India and Thailand. The massive undersea earthquake had a magnitude of up to 9.3, and the deadly waves it triggered were up to 98 feet high. The lack of a tsunami warning system led to many densely populated coastal areas being taken by surprise.  The humanitarian aid alone amounted to over $14 billion.(1) 
+
+    Another choice we make is to produce goods and services.  We realized that through trade, specialization, and cooperation, we learned that both sides in an exchange can result in a benefit gain.  We also learned that through competition the most efficient companies survive over time and need competitiors are always entering the market.  They make decisions on what to produce and in what quantities based on the information they have at the time.  The more data that is available to them allows them greater options to derive information from it and survive against their competitors by making better decisions.  Their life depends on the choices they make.
+
+## Problem
+
+Data is the currency of the 21st century figuratively and literally.  According to the October 2012 issue of the Harvard Business Review, the data scientist is the sexiest job of the 21st century. (2)  The number of job postings for data scientist positions increased by 15,000% between the summers of 2011 and 2012. (3)  The April 2014 study, The Digital Universe of Opportunities: Rich Data and the Increasing Value of the Internet of Things found that the digital universe is doubling in size every two years and will multiply 10-fold between 2013 and 2020 – from 4.4 trillion gigabytes to 44 trillion gigabytes.
+
+So the billion dollar question is how does a company manage, store, report, and take action on all the data that is at their disposal both internally and externally?  How do they capitalize on and leverage their data assets?  There are so many different types of data technologies available with overlapping functionality.  How do they fit together?  Which technologies should a company use for which business problems and what are the best practices when implementing them?  How does a company build a comprehensive, holistic enterprise solution that will provide for all of their forseeable use cases?
+
+We have seen large enterprise organizations waste millions of dollars on failed data and data warehouse projects.  When using evaluating their data toolbox, we have found companies trying to use a hammer whether the problem was a nail or a bolt either due to only having a hammer or commonly they only have the skill and knowledge to use a hammer.  We have seen companies use a wrench to hammer a bolt into place as opposed to turning it using the wrench the way a wrench was designed to be used.  And so many times we have seen companies sitting, staring at their toolbox that they purchased, wondering how it was going to solve the problems that the tool salesman sold them.
+
+There are shelves of books (if there were shelves anymore) on data warehousing, data management, business intelligenc, report creation, predictive analytics, infrastructure, data modeling, and big data.  Each of these books provide excellent information on the products or technologies that they support.  However, there seems to be a gap when determining how these tools come together to create a comprehensive solution.  There is no information detailing how choices in one product's implementation affects the implementation of another.  What is needed is a single source that provides a blueprint for a complete solution and has enough detail to provide an actionable guide for a successful implementaion.  That is the goal of this book.
+
+> Although complete coverage of every detail from all of the technologies is beyond the scope possbile in any one book, we will attempt to cover all the necessary information to build a framework and structure that is 80% complete.  For the 20% of the nuance requirements that fall into niche, one-off buckets, we will point the reader to other sources that has the information they need.
+
+It is our mission to save the reader the millions of dollars lost from classic mistakes that we have seen numerous organizations make as they learn to wade through the treacherous waters of the data lake.  We will consider the book a success if it saves you at least half of the costs others have endured.
+
+## Maturity Model
+
+In order to walk you first must crawl.  And in ordre to run you must first walk.  Consuming data is very similar.  Companies generally start from a certain level of maturity and progress as they learn to leverage their data with more modern tools.  If you haven't mastered your valuable structured data, you have little chance of successfully mining the valuable nuggets from your unstructured data.  Below is our data maturity assessment chart.  It has four main categories or plateaus that companies reach and remain for a time before attempting to progress on their data climb.  These categories we classify as siloed, integrated, analytic, and automated.
+
+* Siloed - This is where a company begins when they store their first piece of data in a database.  This generally happens with their first enterprise application.  Companies continue to purchase and consume applications to satisfy their various business needs.  Little to no thought is put into connecting systems at this stage.  The user themselves serves as the interface between systems as they swivel chair data between their accounting and CRM systems.
+
+* Integrated - At this stage, the company has growth to the point that the swivel chair becomes inefficient and error prone.  Their processes become more complex and systematic coordination is needed to keep their main critical business processes operating effectively.  At this stage even though many of their systems will remain operationally seperated, there is a need to combine the data between systems to get reporting to understand how their business is operating.  In this category, the data warehouse is born.
+
+* Analytic - At this stage, the data warehouse begins to collect data from the majority of the major enterprise transactional systems.  Basic reports become ineffective as the answers to their business questions serve to drive even more questions.  The need for the business analyst or power user for self service reporting becomes vital.      
+
+
+
+Since we have no way of knowing where your company is on the maturity progress chart below, we will start from the beginning.  
+
+We will start with our hero Anton.      
+
+Introduce book layout
+
+Who should read this book?
+
+Intro to LittleCorp - Autonomonous Cars
+
+
+
+A data warehouse is a collection of systems that's purpose is to provide analtyical capabilities to for the business.  
+    
+1. Introduction
+
+Maturity Model
+
+Introduce book layout
+
+Who should read this book?
+
+Intro to LittleCorp - Autonomonous Cars
+
+(1) http://brainz.org/10-most-devastating-tsunamis-recent-history/
+(2) https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
+(3) http://blogs.nature.com/naturejobs/2013/03/18/so-you-want-to-be-a-data-scientist/
