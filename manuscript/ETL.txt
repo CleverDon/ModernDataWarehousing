@@ -1,0 +1,7 @@
+# ETL
+
+Control Structures
+
+Data Flow
+
+Benefits to data flow to sql.  When is DB better and when is ETL better
