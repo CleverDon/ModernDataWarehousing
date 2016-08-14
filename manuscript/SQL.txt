@@ -1,12 +1,5 @@
 # SQL
 
-## Beginning
-
-LittleCarCorp starts with a small SQL Server Express database that contains data about the company's parts inventory and some other miscellaneous data.  Quickbooks is used as their financial accounting system.  They store their corporate documents in SharePoint Online as part of their Office 365 subscription.  Other than that, they have some Excel spreadsheets where they have created a few ad-hoc financial models.  They do not have any customer reports or CRM systems to start with.  Having only two customers a year, Anton is able to understand and know how his business is doing without any need for any business reports.  They use databases and systems solely to keep track of operational transactional processes.
-
-However, with a story appearing in Car and Driver magazine next month which will feature Anton's first self driving car, the ANT, he is expecting to get a lot of new interest.  Therefore, he has decided to also implement Dynamics CRM for his first CRM system to follow up on new customer information requests.
-
-Although the applications have a nice web interface, his SQL Server only has a query textbox with a "Run Query" button.  Therfore, in order to read, insert, update, or delete any information from that database, he much use SQL. 
 
 ## SQL Query
 
