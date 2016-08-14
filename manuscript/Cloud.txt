@@ -1,0 +1,5 @@
+## Cloud
+
+    HDI / Redshift/ SQL DW
+    VM vs PaaS vs OnPrem
+    
