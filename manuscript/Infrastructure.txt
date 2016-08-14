@@ -1,0 +1,8 @@
+## Infrastructure
+
+    VMs
+      Size Specs
+      Network
+      Ports
+      
+      
