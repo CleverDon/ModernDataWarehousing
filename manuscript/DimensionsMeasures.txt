@@ -1,0 +1,10 @@
+## Dimensions and Measures
+
+natural data layout 
+    Beam approach
+    
+    Easier to articulate what you want than what you don't want
+    Listen to the problem not the solution
+
+    Business involved with the modeling experience - App App/ DB - Dimensional is the model
+        Dimension attribute or dimension
