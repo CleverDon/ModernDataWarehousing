@@ -1,30 +1,30 @@
-# SQL
+## SQL
 
-
-## SQL Query
+### SQL Query
 
 At this point Stella, Anton's wife and business partner, has a list of questions and about the parts that they have in inventory.  She also has a list of items that needs to be changed in the database.  
 
 > Lab 1: Help Anton Get Part Information Using SQL
 
-### SELECT
+#### SELECT
 
 The SELECT statement is used to read information from the database.  Anton needs to get a list of all the parts  that are in the Parts table.  Therefore he enters the following:
-```sql
+```python
 SELECT * FROM Parts
 ```
 This statement returns all of the rows and all of the columns that are in the Parts table.  The asterix *, is shorthand for all of the columns in table.
 
 As you can see the table is hard to read since there are so many columns in the table.  He really only needs the part number and part name from the table for Stella, so that she can place the order.  Therefore he enters the following statement:
 
-```sql
+```python
 SELECT [Part Number], [Part Name] FROM Parts
+```
 
 When you only want specific columns of a table, they are listed in the order you want them returned.  Commas are used to seperate column names.
 
 
 
-Query databases
+#### Query databases
           Relational database
           3NF
           FK/ PK/ Candidate Key
