@@ -1,236 +1,64 @@
 #Outline
 
 1. Introduction
-2. Beginning - Source Systems
-               Swivel Chair
-3.  SQL - Query databases
-          Relational database
-          3NF
-          FK/ PK/ Candidate Key
-          Many to 1 Relationships
-4.  Transactional Reporting
-
-               
-               
+2. LittleCarCorp
+3.  SQL 
+4. Transactional Reporting
 3. Integration - Different systems
-                    Inventory
-                    Billing
-                    CR
-                    
-
-               
-                    
 6.  Indexes 
-
-
 7.  Constraints
-
-
 8.  Triggers
-
-
 9.  Partitions
-
-
 10.  Views
-
-
 11.  Agile development
-
-    Scrum
-    Kanban
-    Project Reporting
-  
-
 5.  Data Visualization
     
-
-
 MiddleCorp
  
-4.  Data Warehouse - Can't keep track of all the systems and the pieces
-                    Single version of the truth
-                    Time variant - Looking for Need a list of customers who bought a transpost a year ago with a Classic7 Warp drive
-                    
-
-
-
+4.  Data Warehouse 
 6.  Dimensions and Measures - natural data layout 
-    Beam approach
-    
-    Easier to articulate what you want than what you don't want
-    Listen to the problem not the solution
-
-    Business involved with the modeling experience - App App/ DB - Dimensional is the model
-        Dimension attribute or dimension
-
 8.  Metadata - Data Catalog
-    
-
-
 9   Data Governance
-      Auto approval
-      Council
-      
-
-
 6.  Star Schema
-
-6.  Cubes - Hierarchies
-            Aggregations
-               Aggregation Types
-
+6.  Cubes - 
 7.  Dimensions
-
-    Introduce the 3 tables of ways to look at data
-    
 8.     Facts
-   
     Measures
-
 7. Dimension Design Patterns 
-
 8. Calculations
-
 10.  ETL
-
-Control Structures
-
-Data Flow
-
-Benefits to data flow to sql.  When is DB better and when is ETL better
-
-
 17.  Messaging and APIs
-
-
 11.  MDM
-      Input - missing?
-      Workflow
-      Rules - On ingest
-
-
 12.  Quality
-        Field
-        Row
-        File/ Flow
-        
-      The 4 things to do (do nothing/ fail the job/ ignore - set to null or default / remove the row
-
+    
 BigCorp
 
-
 10.  Big Data - Problem
-
-
 11.  Hadoop
-
-
 12.  MapReduce and Yarn
-
-
-
 13.  Data Lake / Logical Storage
-
-    ETL Offloading
-    Archiving
-    
-    Four layers of storage
-      Data Lake
-      Clean Processed
-      Analytic - Multidimensional
-      Focused / Targeted
-
-
 16  Ingestion / IOT
-
-Push/ Pull/ Subscribe
-
-
-
-
-
 13.  Hive
-
-
 14.  Pig
-
-
 15.  NoSQL DBs
-
-      HBase
-      DocumentDB
-      MemCache
-      Search / Solr/ ElasticSearch
-      
-
-
 7.  In Memory
-
-
 8.  MPP
-
-
-
 9.  Cloud
-    HDI / Redshift/ SQL DW
-    VM vs PaaS vs OnPrem
-    
-
-
 11.  Infrastructure
-      VMs
-      Size Specs
-      Network
-      Ports
-      
-      
-
 10.  Security/ Infrastructure Management
-      Ranger
-      Knox
-      DR/ Falcon
-      Use governance for autoapproval 
-          CIA stress Accessibility is overlooked
-      Atlas
-
 12.  Workflow / Scheduling/ Process Mgmt
-
-
-      
-      
 
 MegaCorp
 
 15  Python
-
-
 16.  Spark
-
-
 17.  Streaming
-
-    Spark
-    
-    Storm
-    
-
 18.  Graph
-
-
-
 19.  Data Science
-      Zepellin Analysis
-
-
 9. Predictive Analytics
-
-
 11.  R
 
-
-FutureCorp
-
+FutureCarCorp
 
 10.  Future World - Machine automation
 
