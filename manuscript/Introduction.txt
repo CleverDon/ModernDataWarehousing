@@ -1,6 +1,6 @@
-#Introduction
+## Introduction
 
-## Life is Choices
+### Life is Choices
 
 As humans, every action we take is a choice or a decision.  We have made good choices and we have made bad choices.  The choices we make is based off of the information that we have available to us at the time.  If I knew it was going to rain, I would have brought my umbrella.  The current data exists, however whether we did not have a convenient way to get the forecast (data collection issue) or we did not understand that raining to the west means it will likely rain in the east later (deriving information from data issue) we were unable to turn that data into information for us to take action.  Getting wet because we forget an umbrella may be an inconvenience, but what happens when the stakes are higher.  How important is the information when it saves lives. 
 
@@ -8,7 +8,7 @@ As humans, every action we take is a choice or a decision.  We have made good ch
 
     Another choice we make is to produce goods and services.  We realized that through trade, specialization, and cooperation, we learned that both sides in an exchange can result in a benefit gain.  We also learned that through competition the most efficient companies survive over time and need competitiors are always entering the market.  They make decisions on what to produce and in what quantities based on the information they have at the time.  The more data that is available to them allows them greater options to derive information from it and survive against their competitors by making better decisions.  Their life depends on the choices they make.
 
-## Problem
+### Problem
 
 Data is the currency of the 21st century figuratively and literally.  According to the October 2012 issue of the Harvard Business Review, the data scientist is the sexiest job of the 21st century. (2)  The number of job postings for data scientist positions increased by 15,000% between the summers of 2011 and 2012. (3)  The April 2014 study, The Digital Universe of Opportunities: Rich Data and the Increasing Value of the Internet of Things found that the digital universe is doubling in size every two years and will multiply 10-fold between 2013 and 2020 – from 4.4 trillion gigabytes to 44 trillion gigabytes.
 
@@ -18,11 +18,14 @@ We have seen large enterprise organizations waste millions of dollars on failed 
 
 There are shelves of books (if there were shelves anymore) on data warehousing, data management, business intelligenc, report creation, predictive analytics, infrastructure, data modeling, and big data.  Each of these books provide excellent information on the products or technologies that they support.  However, there seems to be a gap when determining how these tools come together to create a comprehensive solution.  There is no information detailing how choices in one product's implementation affects the implementation of another.  What is needed is a single source that provides a blueprint for a complete solution and has enough detail to provide an actionable guide for a successful implementaion.  That is the goal of this book.
 
-> Although complete coverage of every detail from all of the technologies is beyond the scope possbile in any one book, we will attempt to cover all the necessary information to build a framework and structure that is 80% complete.  For the 20% of the nuance requirements that fall into niche, one-off buckets, we will point the reader to other sources that has the information they need.
+> Although complete coverage of every detail from all of the technologies is beyond the scope possbile in any one book, we will 
+> attempt to cover all the necessary information to build a framework and structure that is 80% complete.  For the 20% of the
+> nuance requirements that fall into niche, one-off buckets, we will point the reader to other sources that has the information 
+> they need.
 
 It is our mission to save the reader the millions of dollars lost from classic mistakes that we have seen numerous organizations make as they learn to wade through the treacherous waters of the data lake.  We will consider the book a success if it saves you at least half of the costs others have endured.
 
-## Maturity Model
+### Maturity Model
 
 In order to walk you first must crawl.  And in ordre to run you must first walk.  Consuming data is very similar.  Companies generally start from a certain level of maturity and progress as they learn to leverage their data with more modern tools.  If you haven't mastered your valuable structured data, you have little chance of successfully mining the valuable nuggets from your unstructured data.  Below is our data maturity assessment chart.  It has four main categories or plateaus that companies reach and remain for a time before attempting to progress on their data climb.  These categories we classify as siloed, integrated, analytic, and automated.
 
@@ -36,16 +39,19 @@ In order to walk you first must crawl.  And in ordre to run you must first walk.
 
 Since we have no way of knowing where your company falls on the maturity progress assessment chart, we will start from the beginning.  We will follow a company as it starts as a small mom and pop automated car niche manufacturer producing a few cars a year into the "Ford" of the 21st century.  As its needs change, it will move up the data maturity chart.  Although every company progresses differently since it has unique needs, the progression depicted will materially model the vast majority of industries and businesses.
 
-## LittleCarCorp
+# LittleCarCorp
+
+### Our Hero
+
 We will start with our hero Anton.  He is an automotive engineer by trade and has a particular passion for autonomously controlled vehicles.  As a boy, he had always had a dream to have a car similar to that of K.I.T.T. from his favorite show, Knight Rider.  Using today's technology, he has been able to produce a functional version of the car which he sells to a few people a year who have an excessive disposable income.     
 
-## Who should read this book?
+### Who should read this book?
 This book is for anyone who will be interacting with data in their organization.  Since that will refer to everyone in the next few years, let's drill down to a slightly more granular focus.  
 
 There is an expectation that the data have some familiarality with SQL and relational databases.  Although, a quick fresher will be covered to bridge the gaps to the first majority level, if this subject is new to use we recommend starting with some basic SQL skills and relational data modeling concepts.
 
 It is also assumed that the reader will have an open mind to the new concepts that are revealed as we progress through the book.  Some of these concepts directly contradict some of the basic relational database laws of nature such as normalization.  So if you begin to feel too uncomfortable or start feeling dizzy, please stop, return to a safer previous chapter until you feel ready to continue.
-# Book Topics
+### Book Topics
 
 Since this book discusses, so many technologies and topics would fill volumes if the discussion were comprehensive.  Instead, this book discusses a subset of implementation options.  By limiting the scope or the options and depth of the discussions, we believe we can support the greater goal of discussing a viable solution with the knowledge and understanding that elements of the solution would be changed to meet particular business needs or other unique scenarios. 
 
