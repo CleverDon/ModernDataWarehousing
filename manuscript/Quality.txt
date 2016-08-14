@@ -1,0 +1,8 @@
+## Quality
+
+  Field
+        Row
+        File/ Flow
+        
+      The 4 things to do (do nothing/ fail the job/ ignore - set to null or default / remove the row
+
