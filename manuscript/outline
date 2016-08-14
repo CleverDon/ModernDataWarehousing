@@ -9,6 +9,7 @@
           FK/ PK/ Candidate Key
           Many to 1 Relationships
 4.  Transactional Reporting
+
                
                
 3. Integration - Different systems
@@ -16,7 +17,7 @@
                     Billing
                     CR
                     
-Show integration with every new piece of the model being developed
+
                
                     
 6.  Indexes 
@@ -41,7 +42,7 @@ Show integration with every new piece of the model being developed
     Project Reporting
   
 
-5.  Reporting - Visualizations
+5.  Data Visualization
     
 
 
@@ -67,7 +68,7 @@ MiddleCorp
     
 
 
-9   Governance
+9   Data Governance
       Auto approval
       Council
       
@@ -83,13 +84,13 @@ MiddleCorp
 
     Introduce the 3 tables of ways to look at data
     
-8.     Types of Fact Table 
+8.     Facts
    
     Measures
 
-7. Complex patterns and calculations
+7. Dimension Design Patterns 
 
-
+8. Calculations
 
 10.  ETL
 
@@ -100,7 +101,7 @@ Data Flow
 Benefits to data flow to sql.  When is DB better and when is ETL better
 
 
-17.  Messaging/ API
+17.  Messaging and APIs
 
 
 11.  MDM
