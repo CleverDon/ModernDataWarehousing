@@ -3,3 +3,11 @@
 
 ### Logical Data Storage
 
+ ETL Offloading
+    Archiving
+    
+    Four layers of storage
+      Data Lake
+      Clean Processed
+      Analytic - Multidimensional
+      Focused / Targeted
