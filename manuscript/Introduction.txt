@@ -45,7 +45,9 @@ This book is for anyone who will be interacting with data in their organization.
 There is an expectation that the data have some familiarality with SQL and relational databases.  Although, a quick fresher will be covered to bridge the gaps to the first majority level, if this subject is new to use we recommend starting with some basic SQL skills and relational data modeling concepts.
 
 It is also assumed that the reader will have an open mind to the new concepts that are revealed as we progress through the book.  Some of these concepts directly contradict some of the basic relational database laws of nature such as normalization.  So if you begin to feel too uncomfortable or start feeling dizzy, please stop, return to a safer previous chapter until you feel ready to continue.
+# Book Topics
 
+Since this book discusses, so many technologies and topics would fill volumes if the discussion were comprehensive.  Instead, this book discusses a subset of implementation options.  By limiting the scope or the options and depth of the discussions, we believe we can support the greater goal of discussing a viable solution with the knowledge and understanding that elements of the solution would be changed to meet particular business needs or other unique scenarios. 
 
 (1) http://brainz.org/10-most-devastating-tsunamis-recent-history/
 (2) https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
