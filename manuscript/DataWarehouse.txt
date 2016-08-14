@@ -1,0 +1,6 @@
+## Data Warehouse
+
+Can't keep track of all the systems and the pieces
+                    Single version of the truth
+                    Time variant - Looking for Need a list of customers who bought a transpost a year ago with a Classic7 Warp drive
+                    
