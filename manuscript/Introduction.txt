@@ -39,12 +39,6 @@ In order to walk you first must crawl.  And in ordre to run you must first walk.
 
 Since we have no way of knowing where your company falls on the maturity progress assessment chart, we will start from the beginning.  We will follow a company as it starts as a small mom and pop automated car niche manufacturer producing a few cars a year into the "Ford" of the 21st century.  As its needs change, it will move up the data maturity chart.  Although every company progresses differently since it has unique needs, the progression depicted will materially model the vast majority of industries and businesses.
 
-# LittleCarCorp
-
-### Our Hero
-
-We will start with our hero Anton.  He is an automotive engineer by trade and has a particular passion for autonomously controlled vehicles.  As a boy, he had always had a dream to have a car similar to that of K.I.T.T. from his favorite show, Knight Rider.  Using today's technology, he has been able to produce a functional version of the car which he sells to a few people a year who have an excessive disposable income.     
-
 ### Who should read this book?
 This book is for anyone who will be interacting with data in their organization.  Since that will refer to everyone in the next few years, let's drill down to a slightly more granular focus.  
 
