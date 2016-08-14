@@ -24,3 +24,10 @@ When you only want specific columns of a table, they are listed in the order you
 
 
 
+Query databases
+          Relational database
+          3NF
+          FK/ PK/ Candidate Key
+          Many to 1 Relationships
+          
+          
