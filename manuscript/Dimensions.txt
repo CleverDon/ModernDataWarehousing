@@ -1,4 +1,4 @@
-# Dimensions
+## Dimensions
 
 Introduce the 3 tables of ways to look at data
     
