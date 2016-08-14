@@ -1,0 +1,10 @@
+## Security
+
+Infrastructure Management
+
+Ranger
+      Knox
+      DR/ Falcon
+      Use governance for autoapproval 
+          CIA stress Accessibility is overlooked
+      Atlas
