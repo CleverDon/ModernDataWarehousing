@@ -1,2 +1,6 @@
-# Mega Car Corp
+# Advanced Analytics
+
+## Mega Car Corp
+
+At this point, Big Car Corp has grown with its unprecendented use of Big Data and its Modern Data Warehouse.  They have gotten about as far as they can get from batch updates and backwards looking metrics.  The system is making recommendations, but the analyst is still rubber stamping them.  It's time to let the system act alone.
 
