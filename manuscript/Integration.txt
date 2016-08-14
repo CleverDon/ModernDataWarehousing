@@ -4,3 +4,6 @@ Different systems
                     Inventory
                     Billing
                     CR
+
+
+Show integration with the whole solution with every new piece of the model being developed
